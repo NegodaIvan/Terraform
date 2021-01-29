@@ -4,8 +4,8 @@
 variable "devs" {
      type = map
      default =	     {
-        nagod = "serve"
-        zayce = "tes"
+        nagoda = "server"
+        zaycev = "test"
       }
  
 }
